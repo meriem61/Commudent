@@ -1,0 +1,13 @@
+git add .
+git commit -m "MESSAGE ICI"
+git pull
+git push -u origin main
+
+
+
+
+Ibtissem
+git add .
+git commit -m "MESSSAGE ICI"
+git pull upstream main
+git push -u origin main
